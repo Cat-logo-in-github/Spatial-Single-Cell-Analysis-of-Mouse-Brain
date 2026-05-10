@@ -1,6 +1,6 @@
 # Spatial Mouse Brain Explorer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cat-logo-in-github/Spatial-Single-Cell-Analysis-of-Mouse-Brain/blob/main/Spatial_Single_Cell_Analysis.ipynb))
 
 An interactive beginner-friendly notebook for exploring spatial transcriptomics data from the mouse brain using Scanpy and Squidpy.
 
